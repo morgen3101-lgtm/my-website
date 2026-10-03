@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+}
+img {
+    width: 200px;
+    border-radius: 20px;
+}
+.button {
+    display: inline-block;
+    background-color: darkblue;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.button:hover {
+    background-color: black;
+}
+.about {
+    margin: 30px auto;
+    max-width: 600px;
+}
+
+.about h2 {
+    color: darkblue;
+    font-size: 30px;
+}
+
+.about p {
+    font-size: 18px;
+}
+.about p {
+    font-size: 18px;
+}
+.accounts {
+    margin: 30px auto;
+}
+
+.accounts h2 {
+    color: darkblue;
+    font-size: 30px;
+}
+
+.accounts a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.accounts a:hover {
+    background-color: black;
+    transform: scale(1.1);
+}
